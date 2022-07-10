@@ -13,8 +13,15 @@
 
 ### Spring Framework Stacks
 
-- Spring Web
+- Spring Boot
+- Spring MVC
 - Spring WebFlux
+- Spring Data
+    - JPA
+    - Redis
+- Spring Reactive Data
+    - JPA
+    - Redis
 - Spring Session
 - Spring Security
 - Spring Cloud
