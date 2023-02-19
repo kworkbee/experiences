@@ -7,6 +7,8 @@
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+---
+
 ## Frameworks / Libraries
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -49,7 +51,16 @@
     - SealedSecret
 - Cloud Providers
     - AWS
+---
 
 ## Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+---
+
+## Articles
+
+- [Service Discovery DR 구성 1부 - Eureka 서버를 지역 분산시켜 안정성을 높이자](https://11st-tech.github.io/2022/12/30/eureka-disaster-recovery-1/)
+- [Service Discovery DR 구성 2부 - Chaos Test로 찾은 예기치 못했던 문제를 고쳐라!](https://11st-tech.github.io/2022/12/30/eureka-disaster-recovery-2/)
+- [Service Discovery DR 구성 3부 - eurekube-operator의 Zone Failover를 위한 Spring Cloud LoadBalancer 탐구](https://11st-tech.github.io/2023/01/16/eureka-disaster-recovery-3/)
