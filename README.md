@@ -39,6 +39,7 @@
     - Helm
 - CI/CD
     - Github Actions
+    - Bitbucket Cloud Pipelines
 - GitOps
     - Argo Projects
 - Monitoring
@@ -51,6 +52,8 @@
     - SealedSecret
 - Cloud Providers
     - AWS
+- Declarative Database Schema Management
+    - SchemaHero
 ---
 
 ## Tools
@@ -64,3 +67,8 @@
 - [Service Discovery DR 구성 1부 - Eureka 서버를 지역 분산시켜 안정성을 높이자](https://11st-tech.github.io/2022/12/30/eureka-disaster-recovery-1/)
 - [Service Discovery DR 구성 2부 - Chaos Test로 찾은 예기치 못했던 문제를 고쳐라!](https://11st-tech.github.io/2022/12/30/eureka-disaster-recovery-2/)
 - [Service Discovery DR 구성 3부 - eurekube-operator의 Zone Failover를 위한 Spring Cloud LoadBalancer 탐구](https://11st-tech.github.io/2023/01/16/eureka-disaster-recovery-3/)
+- [Feature Flag - 안전하고 신뢰할 수 있는 배포로 나아가는 열쇠 🔑](https://11st-tech.github.io/2023/11/07/openfeature/)
+
+## Presentation
+
+- [Feature Flag - 안전하고 신뢰할 수 있는 배포로 나아가는 열쇠 🔑](https://www.youtube.com/watch?v=8EZZQZJTKEk)
